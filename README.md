@@ -18,7 +18,7 @@
 
 Este projeto é uma aplicação React de lista de tarefas.  
 
-<!-- Clique [aqui](https://reactgram-4yia.onrender.com/) para conferir como ficou a aplicação hospedada na plataforma [Render](https://render.com/).   -->
+ Clique [aqui](https://cheerful-otter-cc2ec0.netlify.app/) para conferir como ficou a aplicação hospedada na plataforma [Netlify](https://netlify.com/).
 
 
 ## 🎨 Layout
