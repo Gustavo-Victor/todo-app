@@ -1,0 +1,53 @@
+.task {
+    display: flex;
+    justify-content: space-between;
+    max-width: 450px;
+    margin: 0 auto; 
+    border-bottom: 1px solid #ccc; 
+    padding: 1rem ;
+}
+
+.completed {
+    background-color: #fcfcfc;
+}
+
+.completed h4 {
+    text-decoration: line-through;
+    color: #777;
+}
+
+.info {
+    text-align: left !important;
+}
+
+.info h4 {
+    font-size: 1.1rem; 
+    margin-bottom: 0.7rem;
+}
+
+.info p {
+    font-size: 0.9rem;
+    color: #999; 
+}
+
+.actions {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 0.1rem; 
+}
+
+.actions svg {
+    font-size: 1.5rem;  
+    cursor: pointer;
+    background-color: #282c34;
+    padding: .4rem; 
+    color: #fff; 
+    transition: .4s; 
+}
+
+.actions svg:hover,
+.actions svg:active {
+    color: #61dafb; 
+}

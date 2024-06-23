@@ -1,0 +1,33 @@
+*, *::after, *::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #000; 
+    font-family: Helvetica, sans-serif;
+    position: relative;
+}
+
+body a {
+    text-decoration: none;
+}
+
+body h2 {
+    font-size: 1.2rem;
+    margin-bottom: 1.2rem !important;
+}
+
+body input, 
+body button {
+    border: none; 
+    outline: none; 
+}
+
+.hide {
+    display: none !important; 
+}
+
+
+
